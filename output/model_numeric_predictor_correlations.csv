@@ -1,0 +1,7 @@
+"","age","openness","agreeableness","extraversion","conscientiousness","emotional_stability"
+"age",1,-0.26,-0.041,0.043,0.043,0.121
+"openness",-0.26,1,0.127,0.256,0.111,0.079
+"agreeableness",-0.041,0.127,1,-0.017,0.197,0.46
+"extraversion",0.043,0.256,-0.017,1,0.078,0.106
+"conscientiousness",0.043,0.111,0.197,0.078,1,0.32
+"emotional_stability",0.121,0.079,0.46,0.106,0.32,1

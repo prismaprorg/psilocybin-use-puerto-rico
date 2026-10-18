@@ -1,0 +1,53 @@
+"variable","level","n","value"
+"Motivation","Curiosity",58,43.609022556391
+"Motivation","Introspection",16,12.0300751879699
+"Motivation","Friends",14,10.5263157894737
+"Motivation","Personal Healing",14,10.5263157894737
+"Motivation","Mystical experiences",12,9.02255639097744
+"Motivation","To feel drugged",6,4.51127819548872
+"Motivation","Spirituality",5,3.7593984962406
+"Motivation","Increasing Creativity",3,2.25563909774436
+"Dosage","<0.5g",20,15.0375939849624
+"Dosage","0.5-1.5g",26,19.5488721804511
+"Dosage","1.5-2.5g",24,18.0451127819549
+"Dosage","2.5-3.5g",20,15.0375939849624
+"Dosage",">3.5g",10,7.5187969924812
+"Dosage","Don't know",23,17.2932330827068
+"Frequency","<5 times in lifetime",60,45.1127819548872
+"Frequency","Annual",31,23.3082706766917
+"Frequency","Monthly",22,16.5413533834586
+"Frequency","Weekly",6,4.51127819548872
+"Frequency","Other",14,10.5263157894737
+"Company","Accompanied",85,63.9097744360902
+"Company","Alone",36,27.0676691729323
+"Company","Other",10,7.5187969924812
+"Place","Nature",72,54.1353383458647
+"Place","Home",38,28.5714285714286
+"Place","Party",6,4.51127819548872
+"Place","Ceremony",3,2.25563909774436
+"Place","Other",12,9.02255639097744
+"Preparation","No",67,50.3759398496241
+"Preparation","Yes",66,49.6240601503759
+"Integration","No",57,42.8571428571429
+"Integration","Yes",75,56.390977443609
+"Experience","Very pleasant",89,66.9172932330827
+"Experience","Pleasant",29,21.8045112781955
+"Experience","Neutral",12,9.02255639097744
+"Experience","Unpleasant",1,0.75187969924812
+"Experience","Very unpleasant",2,1.50375939849624
+"Addictive","No",121,90.9774436090226
+"Addictive","Maybe",11,8.27067669172932
+"Addictive","Yes",1,0.75187969924812
+"Harmful","No",106,79.6992481203008
+"Harmful","Maybe",24,18.0451127819549
+"Harmful","Yes",1,0.75187969924812
+"Methods","Dried Mushrooms",106,79.6992481203008
+"Methods","Tea or coffee",38,28.5714285714286
+"Methods","Capsules",48,36.0902255639098
+"Methods","Chocolate",52,39.0977443609023
+"Methods","Other",12,9.02255639097744
+"Purposes","Recreational",93,69.9248120300752
+"Purposes","Creativity",73,54.8872180451128
+"Purposes","Medicinal",72,54.1353383458647
+"Purposes","Spiritual",66,49.6240601503759
+"Purposes","Other",8,6.01503759398496

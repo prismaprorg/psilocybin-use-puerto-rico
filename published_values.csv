@@ -1,0 +1,297 @@
+id,repro_id,source,item,published,digits,type
+flow.raw,,Results: Respondent characteristics,Individuals who accessed the survey,343,0,eq
+flow.screened_out,,Results: Respondent characteristics,Records excluded as mostly incomplete,31,0,eq
+flow.after_screening,,Derived (343-31),Records after screening,312,0,eq
+flow.duplicates,,Results: Respondent characteristics,Duplicate records removed,8,0,eq
+flow.after_dedup,,Derived (312-8),Records after de-duplication,304,0,eq
+flow.missing_outcome,,Results: Respondent characteristics,Records missing primary outcome,51,0,eq
+flow.final_n,,Results: Respondent characteristics / Tables 1-3 headers,Analysis sample,253,0,eq
+flow.users,,Results: Patterns of use / Tables 1-3 headers,Lifetime psilocybin users,133,0,eq
+flow.nonusers,,Tables 1 and 3 headers,Non-users,120,0,eq
+flow.users_pct,,Abstract / Results / Limitations,"Lifetime psilocybin use, %",52.6,1,eq
+T1.Gender.n,,Table 1,Gender: valid n,235,0,eq
+T1.Gender.sig,,Table 1,Gender: chi-square stars (0 = none printed),3,0,eq
+T1.Gender.Male.total,,Table 1,"Gender: Male, total %",37,0,eq
+T1.Gender.Male.users,,Table 1,"Gender: Male, users %",24,0,eq
+T1.Gender.Male.nonusers,,Table 1,"Gender: Male, nonusers %",13,0,eq
+T1.Gender.Female.total,,Table 1,"Gender: Female, total %",63,0,eq
+T1.Gender.Female.users,,Table 1,"Gender: Female, users %",26,0,eq
+T1.Gender.Female.nonusers,,Table 1,"Gender: Female, nonusers %",37,0,eq
+T1.Sexual Orientation.n,,Table 1,Sexual Orientation: valid n,246,0,eq
+T1.Sexual Orientation.sig,,Table 1,Sexual Orientation: chi-square stars (0 = none printed),3,0,eq
+T1.Sexual Orientation.Heterosexual.total,,Table 1,"Sexual Orientation: Heterosexual, total %",64,0,eq
+T1.Sexual Orientation.Heterosexual.users,,Table 1,"Sexual Orientation: Heterosexual, users %",27,0,eq
+T1.Sexual Orientation.Heterosexual.nonusers,,Table 1,"Sexual Orientation: Heterosexual, nonusers %",37,0,eq
+T1.Sexual Orientation.Asexual.total,,Table 1,"Sexual Orientation: Asexual, total %",4,0,eq
+T1.Sexual Orientation.Asexual.users,,Table 1,"Sexual Orientation: Asexual, users %",2,0,eq
+T1.Sexual Orientation.Asexual.nonusers,,Table 1,"Sexual Orientation: Asexual, nonusers %",2,0,eq
+T1.Sexual Orientation.Bisexual.total,,Table 1,"Sexual Orientation: Bisexual, total %",16,0,eq
+T1.Sexual Orientation.Bisexual.users,,Table 1,"Sexual Orientation: Bisexual, users %",12,0,eq
+T1.Sexual Orientation.Bisexual.nonusers,,Table 1,"Sexual Orientation: Bisexual, nonusers %",4,0,eq
+T1.Sexual Orientation.Demisexual.total,,Table 1,"Sexual Orientation: Demisexual, total %",2,0,eq
+T1.Sexual Orientation.Demisexual.users,,Table 1,"Sexual Orientation: Demisexual, users %",2,0,eq
+T1.Sexual Orientation.Demisexual.nonusers,,Table 1,"Sexual Orientation: Demisexual, nonusers %",0,0,eq
+T1.Sexual Orientation.Gay.total,,Table 1,"Sexual Orientation: Gay, total %",6,0,eq
+T1.Sexual Orientation.Gay.users,,Table 1,"Sexual Orientation: Gay, users %",2,0,eq
+T1.Sexual Orientation.Gay.nonusers,,Table 1,"Sexual Orientation: Gay, nonusers %",4,0,eq
+T1.Sexual Orientation.Lesbian.total,,Table 1,"Sexual Orientation: Lesbian, total %",1,0,eq
+T1.Sexual Orientation.Lesbian.users,,Table 1,"Sexual Orientation: Lesbian, users %",0.4,1,eq
+T1.Sexual Orientation.Lesbian.nonusers,,Table 1,"Sexual Orientation: Lesbian, nonusers %",0.4,1,eq
+T1.Sexual Orientation.Pansexual.total,,Table 1,"Sexual Orientation: Pansexual, total %",5,0,eq
+T1.Sexual Orientation.Pansexual.users,,Table 1,"Sexual Orientation: Pansexual, users %",5,0,eq
+T1.Sexual Orientation.Pansexual.nonusers,,Table 1,"Sexual Orientation: Pansexual, nonusers %",0.4,1,eq
+T1.Sexual Orientation.Other.total,,Table 1,"Sexual Orientation: Other, total %",2,0,eq
+T1.Sexual Orientation.Other.users,,Table 1,"Sexual Orientation: Other, users %",2,0,eq
+T1.Sexual Orientation.Other.nonusers,,Table 1,"Sexual Orientation: Other, nonusers %",0,0,eq
+T1.Transgender.n,,Table 1,Transgender: valid n,248,0,eq
+T1.Transgender.sig,,Table 1,Transgender: chi-square stars (0 = none printed),0,0,eq
+T1.Transgender.Yes.total,,Table 1,"Transgender: Yes, total %",9,0,eq
+T1.Transgender.Yes.users,,Table 1,"Transgender: Yes, users %",5,0,eq
+T1.Transgender.Yes.nonusers,,Table 1,"Transgender: Yes, nonusers %",5,0,eq
+T1.Transgender.No.total,,Table 1,"Transgender: No, total %",91,0,eq
+T1.Transgender.No.users,,Table 1,"Transgender: No, users %",48,0,eq
+T1.Transgender.No.nonusers,,Table 1,"Transgender: No, nonusers %",43,0,eq
+T1.Highest Education.n,,Table 1,Highest Education: valid n,248,0,eq
+T1.Highest Education.sig,,Table 1,Highest Education: chi-square stars (0 = none printed),0,0,eq
+T1.Highest Education.11th grade & below.total,,Table 1,"Highest Education: 11th grade & below, total %",1,0,eq
+T1.Highest Education.11th grade & below.users,,Table 1,"Highest Education: 11th grade & below, users % (cell blank in paper, read as 0)",0,0,eq
+T1.Highest Education.11th grade & below.nonusers,,Table 1,"Highest Education: 11th grade & below, nonusers %",1,0,eq
+T1.Highest Education.High School.total,,Table 1,"Highest Education: High School, total %",8,0,eq
+T1.Highest Education.High School.users,,Table 1,"Highest Education: High School, users %",6,0,eq
+T1.Highest Education.High School.nonusers,,Table 1,"Highest Education: High School, nonusers %",2,0,eq
+T1.Highest Education.Associate's degree.total,,Table 1,"Highest Education: Associate's degree, total %",11,0,eq
+T1.Highest Education.Associate's degree.users,,Table 1,"Highest Education: Associate's degree, users %",7,0,eq
+T1.Highest Education.Associate's degree.nonusers,,Table 1,"Highest Education: Associate's degree, nonusers %",4,0,eq
+T1.Highest Education.Bachelor's degree.total,,Table 1,"Highest Education: Bachelor's degree, total %",46,0,eq
+T1.Highest Education.Bachelor's degree.users,,Table 1,"Highest Education: Bachelor's degree, users %",24,0,eq
+T1.Highest Education.Bachelor's degree.nonusers,,Table 1,"Highest Education: Bachelor's degree, nonusers %",22,0,eq
+T1.Highest Education.Master's degree.total,,Table 1,"Highest Education: Master's degree, total %",25,0,eq
+T1.Highest Education.Master's degree.users,,Table 1,"Highest Education: Master's degree, users %",13,0,eq
+T1.Highest Education.Master's degree.nonusers,,Table 1,"Highest Education: Master's degree, nonusers %",12,0,eq
+T1.Highest Education.Doctorate's degree.total,,Table 1,"Highest Education: Doctorate's degree, total %",9,0,eq
+T1.Highest Education.Doctorate's degree.users,,Table 1,"Highest Education: Doctorate's degree, users %",3,0,eq
+T1.Highest Education.Doctorate's degree.nonusers,,Table 1,"Highest Education: Doctorate's degree, nonusers %",6,0,eq
+T1.Religion.n,,Table 1,Religion: valid n,253,0,eq
+T1.Religion.sig,,Table 1,Religion: chi-square stars (0 = none printed),3,0,eq
+T1.Religion.Christian.total,,Table 1,"Religion: Christian, total %",30,0,eq
+T1.Religion.Christian.users,,Table 1,"Religion: Christian, users %",8,0,eq
+T1.Religion.Christian.nonusers,,Table 1,"Religion: Christian, nonusers %",22,0,eq
+T1.Religion.Non-Christian.total,,Table 1,"Religion: Non-Christian, total %",70,0,eq
+T1.Religion.Non-Christian.users,,Table 1,"Religion: Non-Christian, users %",45,0,eq
+T1.Religion.Non-Christian.nonusers,,Table 1,"Religion: Non-Christian, nonusers %",25,0,eq
+T1.Relationship Status.n,,Table 1,Relationship Status: valid n,248,0,eq
+T1.Relationship Status.sig,,Table 1,Relationship Status: chi-square stars (0 = none printed),0,0,eq
+T1.Relationship Status.Married/Living Together.total,,Table 1,"Relationship Status: Married/Living Together, total %",33,0,eq
+T1.Relationship Status.Married/Living Together.users,,Table 1,"Relationship Status: Married/Living Together, users %",15,0,eq
+T1.Relationship Status.Married/Living Together.nonusers,,Table 1,"Relationship Status: Married/Living Together, nonusers %",18,0,eq
+T1.Relationship Status.Single/Divorced/Widowed.total,,Table 1,"Relationship Status: Single/Divorced/Widowed, total %",67,0,eq
+T1.Relationship Status.Single/Divorced/Widowed.users,,Table 1,"Relationship Status: Single/Divorced/Widowed, users %",37,0,eq
+T1.Relationship Status.Single/Divorced/Widowed.nonusers,,Table 1,"Relationship Status: Single/Divorced/Widowed, nonusers %",30,0,eq
+T2.Motivation.Curiosity,,Table 2,"Motivation: Curiosity, % of users",44,0,eq
+T2.Motivation.Introspection,,Table 2,"Motivation: Introspection, % of users",12,0,eq
+T2.Motivation.Friends,,Table 2,"Motivation: Friends, % of users",11,0,eq
+T2.Motivation.Personal Healing,,Table 2,"Motivation: Personal Healing, % of users",11,0,eq
+T2.Motivation.Mystical experiences,,Table 2,"Motivation: Mystical experiences, % of users",9,0,eq
+T2.Motivation.To feel drugged,,Table 2,"Motivation: To feel drugged, % of users",5,0,eq
+T2.Motivation.Spirituality,,Table 2,"Motivation: Spirituality, % of users",4,0,eq
+T2.Motivation.Increasing Creativity,,Table 2,"Motivation: Increasing Creativity, % of users",2,0,eq
+T2.Dosage.<0.5g,,Table 2,"Dosage: <0.5g, % of users",15,0,eq
+T2.Dosage.0.5-1.5g,,Table 2,"Dosage: 0.5-1.5g, % of users",20,0,eq
+T2.Dosage.1.5-2.5g,,Table 2,"Dosage: 1.5-2.5g, % of users",18,0,eq
+T2.Dosage.2.5-3.5g,,Table 2,"Dosage: 2.5-3.5g, % of users",15,0,eq
+T2.Dosage.>3.5g,,Table 2,"Dosage: >3.5g, % of users",8,0,eq
+T2.Dosage.Don't know,,Table 2,"Dosage: Don't know, % of users",17,0,eq
+T2.Frequency.<5 times in lifetime,,Table 2,"Frequency: <5 times in lifetime, % of users",45,0,eq
+T2.Frequency.Annual,,Table 2,"Frequency: Annual, % of users",23,0,eq
+T2.Frequency.Monthly,,Table 2,"Frequency: Monthly, % of users",17,0,eq
+T2.Frequency.Weekly,,Table 2,"Frequency: Weekly, % of users",5,0,eq
+T2.Frequency.Other,,Table 2,"Frequency: Other, % of users",11,0,eq
+T2.Company.Accompanied,,Table 2,"Company: Accompanied, % of users",64,0,eq
+T2.Company.Alone,,Table 2,"Company: Alone, % of users",27,0,eq
+T2.Company.Other,,Table 2,"Company: Other, % of users",8,0,eq
+T2.Place.Nature,,Table 2,"Place: Nature, % of users",54,0,eq
+T2.Place.Home,,Table 2,"Place: Home, % of users",29,0,eq
+T2.Place.Party,,Table 2,"Place: Party, % of users",5,0,eq
+T2.Place.Ceremony,,Table 2,"Place: Ceremony, % of users",2,0,eq
+T2.Place.Other,,Table 2,"Place: Other, % of users",9,0,eq
+T2.Preparation.No,,Table 2,"Preparation: No, % of users",50,0,eq
+T2.Preparation.Yes,,Table 2,"Preparation: Yes, % of users",50,0,eq
+T2.Integration.No,,Table 2,"Integration: No, % of users",43,0,eq
+T2.Integration.Yes,,Table 2,"Integration: Yes, % of users",57,0,eq
+T2.Experience.Very pleasant,,Table 2,"Experience: Very pleasant, % of users",67,0,eq
+T2.Experience.Pleasant,,Table 2,"Experience: Pleasant, % of users",22,0,eq
+T2.Experience.Neutral,,Table 2,"Experience: Neutral, % of users",9,0,eq
+T2.Experience.Unpleasant,,Table 2,"Experience: Unpleasant, % of users",2,0,eq
+T2.Experience.Very unpleasant,,Table 2,"Experience: Very unpleasant, % of users",1,0,eq
+T2.Addictive.No,,Table 2,"Addictive: No, % of users",91,0,eq
+T2.Addictive.Maybe,,Table 2,"Addictive: Maybe, % of users",1,0,eq
+T2.Addictive.Yes,,Table 2,"Addictive: Yes, % of users",8,0,eq
+T2.Harmful.No,,Table 2,"Harmful: No, % of users",80,0,eq
+T2.Harmful.Maybe,,Table 2,"Harmful: Maybe, % of users",18,0,eq
+T2.Harmful.Yes,,Table 2,"Harmful: Yes, % of users",1,0,eq
+T2.Methods.Dried Mushrooms,,Table 2,"Methods: Dried Mushrooms, % of users",80,0,eq
+T2.Methods.Tea or coffee,,Table 2,"Methods: Tea or coffee, % of users",29,0,eq
+T2.Methods.Capsules,,Table 2,"Methods: Capsules, % of users",36,0,eq
+T2.Methods.Chocolate,,Table 2,"Methods: Chocolate, % of users",39,0,eq
+T2.Methods.Other,,Table 2,"Methods: Other, % of users",9,0,eq
+T2.Purposes.Recreational,,Table 2,"Purposes: Recreational, % of users",70,0,eq
+T2.Purposes.Creativity,,Table 2,"Purposes: Creativity, % of users",55,0,eq
+T2.Purposes.Medicinal,,Table 2,"Purposes: Medicinal, % of users",54,0,eq
+T2.Purposes.Spiritual,,Table 2,"Purposes: Spiritual, % of users",50,0,eq
+T2.Purposes.Other,,Table 2,"Purposes: Other, % of users",9,0,eq
+T2.Addictive.sig,,Table 2,Addictive: chi-square stars,3,0,eq
+T2.Harmful.sig,,Table 2,Harmful: chi-square stars,3,0,eq
+T3.Alcohol.total,,Table 3,Alcohol: total %,97,0,eq
+T3.Alcohol.users,,Table 3,Alcohol: users %,52,0,eq
+T3.Alcohol.nonusers,,Table 3,Alcohol: nonusers %,45,0,eq
+T3.Alcohol.sig,,Table 3,Alcohol: chi-square stars (0 = none printed),1,0,eq
+T3.Cigarettes.total,,Table 3,Cigarettes: total %,67,0,eq
+T3.Cigarettes.users,,Table 3,Cigarettes: users %,42,0,eq
+T3.Cigarettes.nonusers,,Table 3,Cigarettes: nonusers %,25,0,eq
+T3.Cigarettes.sig,,Table 3,Cigarettes: chi-square stars (0 = none printed),3,0,eq
+T3.Marihuana.total,,Table 3,Marihuana: total %,77,0,eq
+T3.Marihuana.users,,Table 3,Marihuana: users %,51,0,eq
+T3.Marihuana.nonusers,,Table 3,Marihuana: nonusers %,26,0,eq
+T3.Marihuana.sig,,Table 3,Marihuana: chi-square stars (0 = none printed),3,0,eq
+T3.LSD.total,,Table 3,LSD: total %,36,0,eq
+T3.LSD.users,,Table 3,LSD: users %,34,0,eq
+T3.LSD.nonusers,,Table 3,LSD: nonusers %,2,0,eq
+T3.LSD.sig,,Table 3,LSD: chi-square stars (0 = none printed),3,0,eq
+T3.Cocaine.total,,Table 3,Cocaine: total %,29,0,eq
+T3.Cocaine.users,,Table 3,Cocaine: users %,24,0,eq
+T3.Cocaine.nonusers,,Table 3,Cocaine: nonusers %,5,0,eq
+T3.Cocaine.sig,,Table 3,Cocaine: chi-square stars (0 = none printed),3,0,eq
+T3.MDMA.total,,Table 3,MDMA: total %,26,0,eq
+T3.MDMA.users,,Table 3,MDMA: users %,24,0,eq
+T3.MDMA.nonusers,,Table 3,MDMA: nonusers %,2,0,eq
+T3.MDMA.sig,,Table 3,MDMA: chi-square stars (0 = none printed),3,0,eq
+T3.Amyl Nitrate/Poppers.total,,Table 3,Amyl Nitrate/Poppers: total %,21,0,eq
+T3.Amyl Nitrate/Poppers.users,,Table 3,Amyl Nitrate/Poppers: users %,17,0,eq
+T3.Amyl Nitrate/Poppers.nonusers,,Table 3,Amyl Nitrate/Poppers: nonusers %,4,0,eq
+T3.Amyl Nitrate/Poppers.sig,,Table 3,Amyl Nitrate/Poppers: chi-square stars (0 = none printed),3,0,eq
+T3.DMT.total,,Table 3,DMT: total %,8,0,eq
+T3.DMT.users,,Table 3,DMT: users %,8,0,eq
+T3.DMT.nonusers,,Table 3,DMT: nonusers %,0,0,eq
+T3.DMT.sig,,Table 3,DMT: chi-square stars (0 = none printed),0,0,eq
+T3.Salvia.total,,Table 3,Salvia: total %,7,0,eq
+T3.Salvia.users,,Table 3,Salvia: users %,7,0,eq
+T3.Salvia.nonusers,,Table 3,Salvia: nonusers %,0,0,eq
+T3.Salvia.sig,,Table 3,Salvia: chi-square stars (0 = none printed),0,0,eq
+T3.Ayahuasca.total,,Table 3,Ayahuasca: total %,6,0,eq
+T3.Ayahuasca.users,,Table 3,Ayahuasca: users %,6,0,eq
+T3.Ayahuasca.nonusers,,Table 3,Ayahuasca: nonusers %,0.4,1,eq
+T3.Ayahuasca.sig,,Table 3,Ayahuasca: chi-square stars (0 = none printed),0,0,eq
+T3.Mescaline.total,,Table 3,Mescaline: total %,6,0,eq
+T3.Mescaline.users,,Table 3,Mescaline: users %,6,0,eq
+T3.Mescaline.nonusers,,Table 3,Mescaline: nonusers %,0,0,eq
+T3.Mescaline.sig,,Table 3,Mescaline: chi-square stars (0 = none printed),0,0,eq
+T3.Ketamine.total,,Table 3,Ketamine: total %,5,0,eq
+T3.Ketamine.users,,Table 3,Ketamine: users %,4,0,eq
+T3.Ketamine.nonusers,,Table 3,Ketamine: nonusers %,1,0,eq
+T3.Ketamine.sig,,Table 3,Ketamine: chi-square stars (0 = none printed),0,0,eq
+T3.Peyote.total,,Table 3,Peyote: total %,4,0,eq
+T3.Peyote.users,,Table 3,Peyote: users %,4,0,eq
+T3.Peyote.nonusers,,Table 3,Peyote: nonusers %,0,0,eq
+T3.Peyote.sig,,Table 3,Peyote: chi-square stars (0 = none printed),0,0,eq
+T3.Heroin.total,,Table 3,Heroin: total %,2,0,eq
+T3.Heroin.users,,Table 3,Heroin: users %,2,0,eq
+T3.Heroin.nonusers,,Table 3,Heroin: nonusers %,0.4,1,eq
+T3.Heroin.sig,,Table 3,Heroin: chi-square stars (0 = none printed),0,0,eq
+T3.5-MEO-DMT.total,,Table 3,5-MEO-DMT: total %,2,0,eq
+T3.5-MEO-DMT.users,,Table 3,5-MEO-DMT: users %,2,0,eq
+T3.5-MEO-DMT.nonusers,,Table 3,5-MEO-DMT: nonusers %,0,0,eq
+T3.5-MEO-DMT.sig,,Table 3,5-MEO-DMT: chi-square stars (0 = none printed),0,0,eq
+T3.2-CB.total,,Table 3,2-CB: total %,1,0,eq
+T3.2-CB.users,,Table 3,2-CB: users %,1,0,eq
+T3.2-CB.nonusers,,Table 3,2-CB: nonusers %,0,0,eq
+T3.2-CB.sig,,Table 3,2-CB: chi-square stars (0 = none printed),0,0,eq
+TX.alcohol_total_pct,,Results: Polysubstance use,"Alcohol, total sample %",97,0,eq
+TX.cigarettes_total_pct,,Results: Polysubstance use,"Cigarettes, total sample %",67,0,eq
+TX.mj_total_pct,,Results: Polysubstance use,"Marijuana, total sample %",77,0,eq
+TX.lsd_total_pct,,Results: Polysubstance use,"LSD, total sample % (text; Table 3 says 36)",35,0,eq
+TX.mj_users_pct,,Results: Polysubstance use,"Marijuana among users, %",98,0,eq
+TX.mj_users_n,,Results: Polysubstance use,"Marijuana among users, n",127,0,eq
+TX.lsd_users_pct,,Results: Polysubstance use,"LSD among users, %",65,0,eq
+TX.lsd_users_n,,Results: Polysubstance use,"LSD among users, n",84,0,eq
+TX.mj_nonusers_pct,,Results: Polysubstance use,"Marijuana among non-users, %",57,0,eq
+TX.mj_nonusers_n,,Results: Polysubstance use,"Marijuana among non-users, n",67,0,eq
+TX.none_nonusers_pct,,Results: Polysubstance use,"No other substances among non-users, %",41,0,eq
+TX.none_nonusers_n,,Results: Polysubstance use,"No other substances among non-users, n",48,0,eq
+TX.curiosity_pct_text,,Results: Patterns of use,"Curiosity as initial motivation, % (Table 2 says 44)",43,0,eq
+TX.curiosity_pct_abstract,,Abstract,"Curiosity as primary motivation, %",43,0,eq
+TX.dose_lt25_pct,,Results: Patterns of use,"Dose below 2.5 g, %",53,0,eq
+TX.lt5_times_pct,,Results: Patterns of use,"Fewer than five lifetime uses, %",45,0,eq
+TX.dose_unknown_pct,,Results: Patterns of use,"Unaware of dosage, %",17,0,eq
+TX.accompanied_pct,,Results: Patterns of use,"Used in company of others, %",64,0,eq
+TX.nature_pct,,Results: Patterns of use,"Natural settings, %",54,0,eq
+TX.dried_pct,,Results: Patterns of use,"Dried form, %",80,0,eq
+TX.recreational_pct,,Results: Patterns of use,"Recreational use, %",70,0,eq
+TX.nonrecreational_pct,,Results: Patterns of use,More than 50% sought non-recreational benefits (> 50),50,0,gt
+TX.preparation_pct_text,,Results: Patterns of use,"Half undertook preparation, %",50,0,eq
+TX.integration_pct_text,,Results: Patterns of use,"Post-consumption integration, % (Table 2 says 57)",56,0,eq
+TX.pleasant_pct,,Results: Patterns of use,"Rated experience pleasant, %",22,0,eq
+TX.very_pleasant_pct,,Results: Patterns of use,"Rated experience very pleasant, %",67,0,eq
+TX.pleasant_or_very_pleasant_abstract,,Abstract,"Pleasant or very pleasant, %",88,0,eq
+TX.not_addictive_users,,Results: Patterns of use,"Users: not addictive, %",91,0,eq
+TX.not_harmful_users,,Results: Patterns of use,"Users: not harmful, %",80,0,eq
+TX.not_addictive_total,,Results: Patterns of use,"Total sample: not addictive, % (Results text)",52,0,eq
+TX.not_harmful_total,,Results: Patterns of use,"Total sample: not harmful, % (Results text)",48,0,eq
+TX.not_addictive_total_abstract,,Abstract,"Total sample: non-addictive, %",61,0,eq
+TX.not_harmful_total_abstract,,Abstract,"Total sample: safe, %",57,0,eq
+TIPI.Openness.r,,Results: TIPI,Openness: effect size r,-0.35,2,eq
+TIPI.Openness.p,,Results: TIPI,Openness: Mann-Whitney p (printed p < .001),0.001,3,lt
+TIPI.Agreeableness.r,,Results: TIPI,Agreeableness: effect size r,-0.16,2,eq
+TIPI.Agreeableness.p,,Results: TIPI,Agreeableness: Mann-Whitney p,0.006,3,eq
+TIPI.Emotional stability.r,,Results: TIPI,Emotional stability: effect size r,0.03,2,eq
+TIPI.Emotional stability.p,,Results: TIPI,Emotional stability: Mann-Whitney p,0.64,2,eq
+TIPI.Extraversion.r,,Results: TIPI,Extraversion: effect size r,-0.06,2,eq
+TIPI.Extraversion.p,,Results: TIPI,Extraversion: Mann-Whitney p,0.3,2,eq
+TIPI.Conscientiousness.r,,Results: TIPI,Conscientiousness: effect size r,0.09,2,eq
+TIPI.Conscientiousness.p,,Results: TIPI,Conscientiousness: Mann-Whitney p,0.14,2,eq
+M.Male.or,,Results: Multivariate logistic regression / Abstract,Male: aOR,6.2,1,eq
+M.Male.lo,,Results: Multivariate logistic regression / Abstract,Male: CI lower,2.81,2,eq
+M.Male.hi,,Results: Multivariate logistic regression / Abstract,Male: CI upper,14.49,2,eq
+M.Bisexual.or,,Results: Multivariate logistic regression / Abstract,Bisexual: aOR,3.14,2,eq
+M.Bisexual.lo,,Results: Multivariate logistic regression / Abstract,Bisexual: CI lower,1.14,2,eq
+M.Bisexual.hi,,Results: Multivariate logistic regression / Abstract,Bisexual: CI upper,9.14,2,eq
+M.Gay.or,,Results: Multivariate logistic regression / Abstract,Gay: aOR (Results text),0.13,2,eq
+M.Gay.or@abstract,M.Gay.or,Abstract,Gay: aOR (Abstract),0.14,2,eq
+M.Gay.lo,,Results: Multivariate logistic regression / Abstract,Gay: CI lower,0.03,2,eq
+M.Gay.hi,,Results: Multivariate logistic regression / Abstract,Gay: CI upper,0.54,2,eq
+M.Non-heterosexual (All Others).or,,Abstract,Non-heterosexual identities: aOR,4.33,2,eq
+M.Non-heterosexual (All Others).lo,,Abstract,Non-heterosexual identities: CI lower,1.27,2,eq
+M.Non-heterosexual (All Others).hi,,Abstract,Non-heterosexual identities: CI upper,16.38,2,eq
+M.Non-Christian.or,,Results: Multivariate logistic regression / Abstract,Non-Christian: aOR,3.76,2,eq
+M.Non-Christian.lo,,Results: Multivariate logistic regression / Abstract,Non-Christian: CI lower,1.77,2,eq
+M.Non-Christian.hi,,Results: Multivariate logistic regression / Abstract,Non-Christian: CI upper,8.37,2,eq
+M.Openness.or,,Results: Multivariate logistic regression / Abstract,Openness: aOR,2.09,2,eq
+M.Openness.lo@abstract,M.Openness.lo,Abstract,Openness: CI lower (Abstract),1.49,2,eq
+M.Openness.lo,,Results: Multivariate logistic regression / Abstract,Openness: CI lower (Results text),1.5,1,eq
+M.Openness.hi,,Results: Multivariate logistic regression / Abstract,Openness: CI upper,3.0,1,eq
+M.Agreeableness.or,,Results: Multivariate logistic regression / Abstract,Agreeableness: aOR,1.75,2,eq
+M.Agreeableness.lo,,Results: Multivariate logistic regression / Abstract,Agreeableness: CI lower,1.2,2,eq
+M.Agreeableness.hi,,Results: Multivariate logistic regression / Abstract,Agreeableness: CI upper,2.63,2,eq
+M.Male.p,,Abstract / Fig. 2 caption,Male: described as significant (p < 0.05),0.05,2,lt
+M.Bisexual.p,,Abstract / Fig. 2 caption,Bisexual: described as significant (p < 0.05),0.05,2,lt
+M.Gay.p,,Abstract / Fig. 2 caption,Gay: described as significant (p < 0.05),0.05,2,lt
+M.Non-heterosexual (All Others).p,,Abstract / Fig. 2 caption,Non-heterosexual (All Others): described as significant (p < 0.05),0.05,2,lt
+M.Non-Christian.p,,Abstract / Fig. 2 caption,Non-Christian: described as significant (p < 0.05),0.05,2,lt
+M.Openness.p,,Abstract / Fig. 2 caption,Openness: described as significant (p < 0.05),0.05,2,lt
+M.Agreeableness.p,,Abstract / Fig. 2 caption,Agreeableness: described as significant (p < 0.05),0.05,2,lt
+M.Age.p,,Fig. 2 caption,Age: described as non-significant (p > 0.05),0.05,2,gt
+M.Conscientiousness.p,,Fig. 2 caption,Conscientiousness: described as non-significant (p > 0.05),0.05,2,gt
+M.Extraversion.p,,Fig. 2 caption,Extraversion: described as non-significant (p > 0.05),0.05,2,gt
+M.Emotional stability.p,,Fig. 2 caption,Emotional stability: described as non-significant (p > 0.05),0.05,2,gt
+M.mcfadden,,Results: Multivariate logistic regression / Abstract,McFadden pseudo-R2,0.305,3,eq
+M.ll_null,,Results: Multivariate logistic regression / Abstract,Null log-likelihood (absolute value),155.26,2,eq
+M.ll_full,,Results: Multivariate logistic regression / Abstract,Full-model log-likelihood (absolute value),107.83,2,eq
+M.lrt,,Results: Multivariate logistic regression / Abstract,Likelihood-ratio statistic,94.86,2,eq
+M.max_leverage,,Results: diagnostics,Maximum leverage (< 0.22),0.22,2,lt
+M.max_cooks,,Results: diagnostics,Maximum Cook's distance (< 0.05),0.05,2,lt
+TX.prevalence_pct_discussion,,Discussion,"Lifetime psilocybin use, % (Discussion)",52.4,1,eq
+TX.first_use_min_age,,Discussion,Youngest age of first use,14,0,eq
+TX.first_use_lt18_pct,,Discussion,"Initiated use before age 18, % (approx. 7%)",7,0,eq
+TX.first_use_lt21_pct,,Conclusion,"Initiated use before age 21, % (a third)",33,0,eq
+TX.first_use_younger_bi,,Discussion,Bisexual users: younger mean first-use age than heterosexual (1 = yes),1,0,eq
+TX.first_use_younger_lesbian,,Discussion,Lesbian users: younger mean first-use age than heterosexual (1 = yes),1,0,eq
+TX.first_use_younger_pansexual,,Discussion,Pansexual users: younger mean first-use age than heterosexual (1 = yes),1,0,eq

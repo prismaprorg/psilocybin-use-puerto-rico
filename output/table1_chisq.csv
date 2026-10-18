@@ -1,0 +1,10 @@
+"variable","test_variable","p","min_expected"
+"Gender","gender",0.000993519998926306,43.3148936170213
+"Sexual Orientation","orientation_t1",3.48957280518371e-05,7.13414634146341
+"Transgender","transgender",0.988490337566192,10.4677419354839
+"Highest Education","education_t1",0.355178957598909,9.90725806451613
+"Religion","religion",3.93654859335032e-08,35.5731225296443
+"Relationship Status","relationship",0.106138168398983,38.5403225806452
+"Sexual Orientation","orientation_full",0.000100621933725005,0.951219512195122
+"Sexual Orientation","orient_het2",8.1501498996473e-05,42.3292682926829
+"Highest Education","education",0.205281463836902,0.471774193548387

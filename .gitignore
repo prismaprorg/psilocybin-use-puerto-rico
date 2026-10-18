@@ -1,0 +1,16 @@
+# Participant-level data must never enter the repo
+data/
+*.csv
+!published_values.csv
+!discrepancy_notes.csv
+!output/*.csv
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/
+renv/local/
+renv/cellar/
+renv/lock/
+renv/python/
+renv/sandbox/
+renv/staging/

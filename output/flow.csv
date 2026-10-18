@@ -1,0 +1,10 @@
+"step","n"
+"Records in REDCap export",343
+"Excluded at screening (vive_enpr/contestado_anteriormente/mayor_edad)",31
+"After screening",312
+"Duplicates (apodo + palabra_secreta, trimws+tolower)",8
+"After de-duplication",304
+"Missing primary outcome (consumo NA or 99)",51
+"Analysis sample",253
+"Lifetime psilocybin users",133
+"Non-users",120

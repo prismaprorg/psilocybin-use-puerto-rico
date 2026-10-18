@@ -1,0 +1,67 @@
+"variable","level","column","n","valid_n","value"
+"Gender","Male","total",87,235,37.0212765957447
+"Gender","Male","users",56,235,23.8297872340426
+"Gender","Male","nonusers",31,235,13.1914893617021
+"Gender","Female","total",148,235,62.9787234042553
+"Gender","Female","users",61,235,25.9574468085106
+"Gender","Female","nonusers",87,235,37.0212765957447
+"Sexual Orientation","Heterosexual","total",157,246,63.8211382113821
+"Sexual Orientation","Heterosexual","users",67,246,27.2357723577236
+"Sexual Orientation","Heterosexual","nonusers",90,246,36.5853658536585
+"Sexual Orientation","Asexual","total",10,246,4.0650406504065
+"Sexual Orientation","Asexual","users",5,246,2.03252032520325
+"Sexual Orientation","Asexual","nonusers",5,246,2.03252032520325
+"Sexual Orientation","Bisexual","total",40,246,16.260162601626
+"Sexual Orientation","Bisexual","users",29,246,11.7886178861789
+"Sexual Orientation","Bisexual","nonusers",11,246,4.47154471544715
+"Sexual Orientation","Demisexual","total",6,246,2.4390243902439
+"Sexual Orientation","Demisexual","users",6,246,2.4390243902439
+"Sexual Orientation","Demisexual","nonusers",0,246,0
+"Sexual Orientation","Gay","total",15,246,6.09756097560976
+"Sexual Orientation","Gay","users",6,246,2.4390243902439
+"Sexual Orientation","Gay","nonusers",9,246,3.65853658536585
+"Sexual Orientation","Lesbian","total",2,246,0.813008130081301
+"Sexual Orientation","Lesbian","users",1,246,0.40650406504065
+"Sexual Orientation","Lesbian","nonusers",1,246,0.40650406504065
+"Sexual Orientation","Pansexual","total",13,246,5.28455284552845
+"Sexual Orientation","Pansexual","users",12,246,4.8780487804878
+"Sexual Orientation","Pansexual","nonusers",1,246,0.40650406504065
+"Sexual Orientation","Other","total",3,246,1.21951219512195
+"Sexual Orientation","Other","users",3,246,1.21951219512195
+"Sexual Orientation","Other","nonusers",0,246,0
+"Transgender","Yes","total",22,248,8.87096774193548
+"Transgender","Yes","users",11,248,4.43548387096774
+"Transgender","Yes","nonusers",11,248,4.43548387096774
+"Transgender","No","total",226,248,91.1290322580645
+"Transgender","No","users",119,248,47.9838709677419
+"Transgender","No","nonusers",107,248,43.1451612903226
+"Highest Education","11th grade & below","total",1,248,0.403225806451613
+"Highest Education","11th grade & below","users",0,248,0
+"Highest Education","11th grade & below","nonusers",1,248,0.403225806451613
+"Highest Education","High School","total",20,248,8.06451612903226
+"Highest Education","High School","users",14,248,5.64516129032258
+"Highest Education","High School","nonusers",6,248,2.41935483870968
+"Highest Education","Associate's degree","total",28,248,11.2903225806452
+"Highest Education","Associate's degree","users",17,248,6.85483870967742
+"Highest Education","Associate's degree","nonusers",11,248,4.43548387096774
+"Highest Education","Bachelor's degree","total",113,248,45.5645161290323
+"Highest Education","Bachelor's degree","users",59,248,23.7903225806452
+"Highest Education","Bachelor's degree","nonusers",54,248,21.7741935483871
+"Highest Education","Master's degree","total",63,248,25.4032258064516
+"Highest Education","Master's degree","users",33,248,13.3064516129032
+"Highest Education","Master's degree","nonusers",30,248,12.0967741935484
+"Highest Education","Doctorate's degree","total",23,248,9.2741935483871
+"Highest Education","Doctorate's degree","users",8,248,3.2258064516129
+"Highest Education","Doctorate's degree","nonusers",15,248,6.04838709677419
+"Religion","Christian","total",75,253,29.6442687747036
+"Religion","Christian","users",19,253,7.5098814229249
+"Religion","Christian","nonusers",56,253,22.1343873517787
+"Religion","Non-Christian","total",178,253,70.3557312252964
+"Religion","Non-Christian","users",114,253,45.0592885375494
+"Religion","Non-Christian","nonusers",64,253,25.296442687747
+"Relationship Status","Married/Living Together","total",81,248,32.6612903225806
+"Relationship Status","Married/Living Together","users",36,248,14.5161290322581
+"Relationship Status","Married/Living Together","nonusers",45,248,18.1451612903226
+"Relationship Status","Single/Divorced/Widowed","total",167,248,67.3387096774194
+"Relationship Status","Single/Divorced/Widowed","users",94,248,37.9032258064516
+"Relationship Status","Single/Divorced/Widowed","nonusers",73,248,29.4354838709677
