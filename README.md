@@ -5,7 +5,8 @@ motivations, and personality correlates from an online survey", *Journal of Psyc
 2026;10(3):250-260, doi:10.1556/2054.2026.00519, from the raw REDCap export, and compares every
 printed value with the reproduced one.
 
-Local repository only, no remote. The participant-level CSV is **not** in this repo.
+Public repository: https://github.com/prismaprorg/psilocybin-use-puerto-rico. The participant-level CSV is **not** in this repo.
+Outputs are aggregates; group means with n < 5 are suppressed (written as `NA`).
 
 ## Run
 

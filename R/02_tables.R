@@ -271,7 +271,11 @@ rec("TX.first_use_lt18_pct", pct(sum(m$consumo_edad < 18), n_u))
 rec("TX.first_use_lt21_pct", pct(sum(m$consumo_edad < 21), n_u))
 fu <- m %>% group_by(orientation_full) %>% summarise(n = n(), mean_age_first_use = mean(consumo_edad), .groups = "drop") %>%
   filter(!is.na(orientation_full))
-write.csv(fu, file.path(OUT, "first_use_age_by_orientation.csv"), row.names = FALSE)
+# Suppress means for cells with n < 5 in the written file (a 1-person mean is that person's value);
+# the comparisons below still use the unsuppressed `fu`.
+fu_out <- fu
+fu_out$mean_age_first_use[fu_out$n < 5] <- NA
+write.csv(fu_out, file.path(OUT, "first_use_age_by_orientation.csv"), row.names = FALSE)
 write.csv(data.frame(statistic = c("n", "mean", "sd", "median", "min", "max"),
                      value = c(n_u, mean(m$consumo_edad), sd(m$consumo_edad), median(m$consumo_edad),
                                min(m$consumo_edad), max(m$consumo_edad))),
